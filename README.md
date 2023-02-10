@@ -2,7 +2,7 @@
 
 Création d'une Extension Chrome permettant de display la météo !
 
-Prérequis Workshop :
+# Prérequis Workshop :
 
 Etape 1:
 
