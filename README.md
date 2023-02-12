@@ -15,22 +15,31 @@ Installation de Google Chrome :
 Exercice 1 :
           Créer un manifest.json
  
-          l'intéret de manifest.json est de pouvoir spécifiez des métadonnées de base sur votre extension google chrome telles que :
+          l'intéret d'un manifest.json est de pouvoir spécifier des données sur votre extension google chrome telles que :
 
           - le nom
           - la version
-          - le script
+          - la description
+          - l'autheur
+          - l'action (commme le script)
 
 
 Exercice 2 :
-          Créer une page visuel de votre extension
+          Créer un file "index.html" pour désigner votre extension !
+         
   
 Exercice 3 :
-          Utiliser l'api machin
+          Récupérer les informations météo de votre ville en utilisant l'api 
+          
+          https://www.weatherapi.com
           
 Exercice 4 :
           Mettre l'extension sur chrome
 
 Bonus :
-          Améliore ton index.html pour avoir une page qui déchire !
+          Comme Bonnus vous pouvez :
+          
+          Améliorer votre fichier "index.html" pour avoir une extension qui déchire !
+          
+          Utiliser une autre Api et afficher les éléments intéréssés dans votre index.html !
           
