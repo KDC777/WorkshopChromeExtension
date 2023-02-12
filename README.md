@@ -1,6 +1,6 @@
 # WorkshopChromeExtension
 
-Création d'une Extension Chrome permettant de display la météo !
+Création d'une Extension Chrome permettant de display la météo de votre ville !
 
 # Prérequis Workshop :
 
@@ -14,7 +14,6 @@ Installation de Google Chrome :
 
 Exercice 1 :
           Créer un manifest.json
- 
           l'intéret d'un manifest.json est de pouvoir spécifier des données sur votre extension google chrome telles que :
 
           - le nom
@@ -29,9 +28,10 @@ Exercice 2 :
          
   
 Exercice 3 :
-          Récupérer les informations météo de votre ville en utilisant l'api 
+          Créer un script.js
+          Récupérer les informations météo de votre ville en utilisant l'api weatherapi
           
-          https://www.weatherapi.com
+          --> https://www.weatherapi.com
           
 Exercice 4 :
           Mettre l'extension sur chrome
