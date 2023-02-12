@@ -21,7 +21,7 @@ Exercice 1 :
           - la version
           - la description
           - l'autheur
-          - l'action (commme le script)
+          - l'action (exemple: un script)
 
 
 Exercice 2 :
